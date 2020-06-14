@@ -3,7 +3,7 @@ const app = express();
 const {createClient} = require('webdav');
 const fs = require('fs');
 
-const client = createClient('https://webdav.yandex.ru',{username: 'contactdirectory@yandex.by',password:'14022000'});
+const client = createClient('https://webdav.yandex.ru',{username: 'username',password:'password'});
 
 app.post("/md/:dirName",(request,response)=>{
     let dirname = request.params.dirName;
