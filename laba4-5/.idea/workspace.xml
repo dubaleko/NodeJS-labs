@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b5f70ee-a349-41b8-b27c-7009d6b24e0a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RCR18t8DXW0PBJpZ86cdrQnxBf" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="laba 4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="laba 4.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.laba 4.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b5f70ee-a349-41b8-b27c-7009d6b24e0a" name="Default Changelist" comment="" />
+      <created>1569168873514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569168873514</updated>
+      <workItem from="1569168876523" duration="8602000" />
+      <workItem from="1569178667901" duration="978000" />
+      <workItem from="1569183791926" duration="7523000" />
+      <workItem from="1569215230509" duration="4759000" />
+      <workItem from="1569222101362" duration="187000" />
+      <workItem from="1569222932579" duration="3089000" />
+      <workItem from="1569770086966" duration="600000" />
+      <workItem from="1570208556164" duration="600000" />
+      <workItem from="1570348287864" duration="11177000" />
+      <workItem from="1570425260274" duration="1386000" />
+      <workItem from="1570877660072" duration="2000" />
+      <workItem from="1570880342594" duration="286000" />
+      <workItem from="1570963352529" duration="422000" />
+      <workItem from="1570964099844" duration="910000" />
+      <workItem from="1570965058222" duration="12000" />
+      <workItem from="1572783702506" duration="5000" />
+      <workItem from="1573991762340" duration="11000" />
+      <workItem from="1575137193585" duration="36000" />
+      <workItem from="1576962697243" duration="697000" />
+      <workItem from="1577051062063" duration="950000" />
+      <workItem from="1579200487906" duration="7000" />
+      <workItem from="1579211574908" duration="19000" />
+      <workItem from="1579477071080" duration="30000" />
+      <workItem from="1579538846780" duration="138000" />
+      <workItem from="1579541927812" duration="3890000" />
+      <workItem from="1579564455350" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="this" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script
+            src="https://code.jquery.com/jquery-2.2.4.js"
+            integrity="sha256-iT6Q9iMJYuQiMWNd9lDyBUStIq/8PuOW33aOqmvFpqI="
+            crossorigin="anonymous">
+    </script>
+</head>
+<body>
+<script>
+$.ajax({
+    url: 'http://localhost:5000/api/name',
+    dataType: "text",
+    success: function (data) {
+       let text = document.getElementById("text");
+       text.innerHTML = data;
+    }
+    }
+);
+</script>
+<h1>Доброе время суток<div id="text"/></h1>
+</body>
+</html>

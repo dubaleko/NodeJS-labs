@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type = text/javascript>
+    fetch('http://localhost:5000/api/name')
+        .then(
+            function (response) {
+                if(response.status === 200)
+                {
+                    let text = document.getElementById("text");
+                    response.text().then(function (data) {
+                     text.innerText = data;
+                    })
+                }
+                else
+                {
+                    alert('You have some problem with response. Code of error'+ response.status)
+                }
+            }
+        );
+</script>
+<h1>Доброе время суток<div id="text"/></h1>
+</body>
+</html>

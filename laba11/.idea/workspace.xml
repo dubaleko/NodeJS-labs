@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed6fa016-45a2-4833-9d7f-c7641e17f0ee" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TQMJFmI9OQwHO90bQ3hYn53E9B" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laba13" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.11-04a.js">
+    <configuration name="11-03.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="11-03.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-03a.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="11-03a.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-04.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="11-04.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-04a.js" type="NodeJSConfigurationType" singleton="false" nameIsGenerated="true" path-to-js-file="11-04a.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-07.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="11-07.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="11-07a.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="11-07a.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.11-04a.js" />
+      <item itemvalue="Node.js.11-07.js" />
+      <item itemvalue="Node.js.11-07a.js" />
+      <item itemvalue="Node.js.11-04.js" />
+      <item itemvalue="Node.js.11-03.js" />
+      <item itemvalue="Node.js.11-03a.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.11-04.js" />
+        <item itemvalue="Node.js.11-03a.js" />
+        <item itemvalue="Node.js.11-03.js" />
+        <item itemvalue="Node.js.11-07a.js" />
+        <item itemvalue="Node.js.11-07.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed6fa016-45a2-4833-9d7f-c7641e17f0ee" name="Default Changelist" comment="" />
+      <created>1573387791619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573387791619</updated>
+      <workItem from="1573387793070" duration="11568000" />
+      <workItem from="1573400622566" duration="303000" />
+      <workItem from="1573449362933" duration="1185000" />
+      <workItem from="1573450769953" duration="44000" />
+      <workItem from="1573452838675" duration="219000" />
+      <workItem from="1573914909954" duration="78000" />
+      <workItem from="1573994491301" duration="12000" />
+      <workItem from="1574894707849" duration="650000" />
+      <workItem from="1579200556583" duration="14000" />
+      <workItem from="1579205134971" duration="65000" />
+      <workItem from="1579211781795" duration="26000" />
+      <workItem from="1579212092367" duration="17000" />
+      <workItem from="1579344655915" duration="199000" />
+      <workItem from="1579345001163" duration="287000" />
+      <workItem from="1579475332965" duration="66000" />
+      <workItem from="1579553007165" duration="10000" />
+      <workItem from="1579553236560" duration="4000" />
+      <workItem from="1579559528511" duration="3360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/11-05a.js</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

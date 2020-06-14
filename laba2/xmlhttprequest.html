@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script type="text/javascript">
+    let xhr = new XMLHttpRequest();
+    xhr.open('GET', 'http://localhost:5000/api/name', true);
+    xhr.send();
+    xhr.onreadystatechange = function () {
+        if(xhr.readyState === 4) {
+            if (xhr.status === 200) {
+                let text = document.getElementById("text");
+                text.innerHTML =  xhr.responseText;
+            } else {
+                alert(xhr.status + ': ' + xhr.statusText);
+            }
+        }
+    };
+</script>
+<h1>Доброе время суток <div id="text"/></h1>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "oracle": {
+    "user": "C##DVVCORE",
+    "password": "newpass",
+    "connectString": "localhost:1521/orcl"
+  },
+  "http": {
+    "port": 5000,
+    "host": "localhost"
+  }
+}

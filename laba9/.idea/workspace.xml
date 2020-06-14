@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="afa55573-7f1a-4c21-93a6-824efd5480f0" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/09-06.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/09-02.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/09-03.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/09-07.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/09-04.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/09-08.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/09-05.js" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1WWcoddhAIJZl5Kz167fcaIbsPo" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laba8" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Univer\node js\laba9" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Univer\node js\laba9" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.09-06.js">
+    <configuration name="09-01.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="09-01.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="09-03.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="09-03.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="09-04.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="09-04.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="09-06.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="09-06.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="server.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="server.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.09-06.js" />
+        <item itemvalue="Node.js.server.js" />
+        <item itemvalue="Node.js.09-04.js" />
+        <item itemvalue="Node.js.09-01.js" />
+        <item itemvalue="Node.js.09-03.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="afa55573-7f1a-4c21-93a6-824efd5480f0" name="Default Changelist" comment="" />
+      <created>1579268967952</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579268967952</updated>
+      <workItem from="1579268969793" duration="13857000" />
+      <workItem from="1579285719892" duration="407000" />
+      <workItem from="1579345481543" duration="5000" />
+      <workItem from="1579345514724" duration="17000" />
+      <workItem from="1579345839205" duration="6000" />
+      <workItem from="1579349783361" duration="17000" />
+      <workItem from="1579350030394" duration="62000" />
+      <workItem from="1579474615329" duration="23000" />
+      <workItem from="1579475981787" duration="37000" />
+      <workItem from="1579549975766" duration="335000" />
+      <workItem from="1579564961820" duration="830000" />
+      <workItem from="1579588084443" duration="5151000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

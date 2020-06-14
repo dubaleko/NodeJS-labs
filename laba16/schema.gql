@@ -1,0 +1,59 @@
+type Faculty {
+    FACULTY: String!
+    FACULTY_NAME: String!
+}
+type Pulpit {
+    PULPIT: String!
+    PULPIT_NAME: String!
+    FACULTY: String!
+}
+type Subject {
+    SUBJECT: String!
+    SUBJECT_NAME: String!
+    PULPIT: String!
+}
+type Teacher {
+    TEACHER: String!
+    TEACHER_NAME: String!
+    PULPIT: String!
+}
+
+input NewFaculty {
+    faculty: String!
+    facultyName: String!
+}
+input NewPulpit {
+    pulpit: String!
+    pulpitName: String!
+    faculty: String!
+}
+input NewSubject {
+     subject: String!
+     subjectName: String!
+     pulpit: String!
+ }
+input NewTeacher {
+    teacher: String!
+    teacherName: String!
+    pulpit: String!
+}
+
+type Query {
+    getFaculties(faculty: String): [Faculty]
+    getPulpits(pulpit: String): [Pulpit]
+    getSubjects(subject: String, faculty: String): [Subject]
+    getTeachers(teacher: String): [Teacher]
+    getTeachersByFaculty(faculty: String!):[Teacher]
+    getSubjectsByFaculty(faculty: String!):[Subject]
+}
+type Mutation {
+    setFaculty(faculty: NewFaculty!): Faculty
+    setPulpit(pulpit: NewPulpit!): Pulpit
+    setSubject(subject: NewSubject!): Subject
+    setTeacher(teacher: NewTeacher!): Teacher
+
+    delFaculty(faculty: String!): Faculty
+    delPulpit(pulpit: String!): Pulpit
+    delSubject(subject: String!): Subject
+    delTeacher(teacher: String!): Teacher
+}

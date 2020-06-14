@@ -1,0 +1,11 @@
+{
+  "name": "m0603dv",
+  "version": "1.0.0",
+  "description": "Send mail",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dubaleko Valentin",
+  "license": "ISC"
+}

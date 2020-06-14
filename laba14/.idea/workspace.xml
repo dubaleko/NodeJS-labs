@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42f01747-70cd-4d54-8829-eb92206c15dc" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VIxw13nNkPrBttEQjmKOuzaDmD" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="14 laba.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="14 laba.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.14 laba.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42f01747-70cd-4d54-8829-eb92206c15dc" name="Default Changelist" comment="" />
+      <created>1576954645212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576954645212</updated>
+      <workItem from="1576954648360" duration="13498000" />
+      <workItem from="1577010355639" duration="28705000" />
+      <workItem from="1577039997436" duration="20974000" />
+      <workItem from="1577077726559" duration="1332000" />
+      <workItem from="1577192683657" duration="659000" />
+      <workItem from="1577207860271" duration="983000" />
+      <workItem from="1577220196641" duration="7000" />
+      <workItem from="1577337038098" duration="63000" />
+      <workItem from="1577520288364" duration="63000" />
+      <workItem from="1577520540103" duration="604000" />
+      <workItem from="1579175543239" duration="976000" />
+      <workItem from="1579177125753" duration="4216000" />
+      <workItem from="1579186397245" duration="18000" />
+      <workItem from="1579196069774" duration="193000" />
+      <workItem from="1579196307323" duration="1093000" />
+      <workItem from="1579200596651" duration="14000" />
+      <workItem from="1579211861183" duration="12000" />
+      <workItem from="1579353319479" duration="4105000" />
+      <workItem from="1579373103319" duration="78000" />
+      <workItem from="1579373199825" duration="1247000" />
+      <workItem from="1579433763787" duration="124000" />
+      <workItem from="1579451514123" duration="590000" />
+      <workItem from="1579474975986" duration="201000" />
+      <workItem from="1579556562314" duration="301000" />
+      <workItem from="1579587228025" duration="7000" />
+      <workItem from="1579587363629" duration="71000" />
+      <workItem from="1582899852997" duration="1167000" />
+      <workItem from="1582904059460" duration="2000" />
+      <workItem from="1582904075023" duration="534000" />
+      <workItem from="1582904642905" duration="2000" />
+      <workItem from="1582910130426" duration="69000" />
+      <workItem from="1582910637657" duration="847000" />
+      <workItem from="1583779332064" duration="14000" />
+      <workItem from="1583780939770" duration="7000" />
+      <workItem from="1583781001717" duration="224000" />
+      <workItem from="1585029577449" duration="40000" />
+      <workItem from="1585158271569" duration="21000" />
+      <workItem from="1585172107412" duration="1998000" />
+      <workItem from="1585199539147" duration="89000" />
+      <workItem from="1585393485547" duration="23000" />
+      <workItem from="1587648196352" duration="17000" />
+      <workItem from="1587648231833" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/14.html</url>
+          <line>22</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/14 laba.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="params" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

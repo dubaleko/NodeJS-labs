@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="96d1cd1d-41c1-4a1c-a85e-b0855c009a7d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="laba10" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T6aeyvbZvVZT11aoA9ixPs057k" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.10-3a.js">
+    <configuration name="10-1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="10-1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="10-2.js" type="NodeJSConfigurationType" singleton="false" temporary="true" nameIsGenerated="true" path-to-js-file="10-2.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="10-3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="10-3.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="10-3a.js" type="NodeJSConfigurationType" singleton="false" nameIsGenerated="true" path-to-js-file="10-3a.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.10-3a.js" />
+      <item itemvalue="Node.js.10-1.js" />
+      <item itemvalue="Node.js.10-2.js" />
+      <item itemvalue="Node.js.10-3.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.10-3.js" />
+        <item itemvalue="Node.js.10-2.js" />
+        <item itemvalue="Node.js.10-1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="96d1cd1d-41c1-4a1c-a85e-b0855c009a7d" name="Default Changelist" comment="" />
+      <created>1572783097926</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572783097926</updated>
+      <workItem from="1572783100253" duration="5494000" />
+      <workItem from="1572843812258" duration="563000" />
+      <workItem from="1573026777523" duration="5000" />
+      <workItem from="1573033560050" duration="21000" />
+      <workItem from="1573133527999" duration="12000" />
+      <workItem from="1573285043261" duration="13000" />
+      <workItem from="1573387613899" duration="1005000" />
+      <workItem from="1573390390680" duration="852000" />
+      <workItem from="1573392250563" duration="5000" />
+      <workItem from="1573392270445" duration="32000" />
+      <workItem from="1573392415891" duration="278000" />
+      <workItem from="1576092629502" duration="17000" />
+      <workItem from="1579200538636" duration="13000" />
+      <workItem from="1579211696479" duration="84000" />
+      <workItem from="1579211874692" duration="216000" />
+      <workItem from="1579212110756" duration="1289000" />
+      <workItem from="1579475400391" duration="580000" />
+      <workItem from="1579550312876" duration="2691000" />
+      <workItem from="1579553045800" duration="892000" />
+      <workItem from="1579562111681" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

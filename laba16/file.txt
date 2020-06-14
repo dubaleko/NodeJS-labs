@@ -1,0 +1,112 @@
+{
+   "query": "query($faculty: String) { getFaculties(faculty: $faculty) {FACULTY, FACULTY_NAME}}",
+   "variables": {
+   	"faculty":"ИДиП"
+   }
+}
+________________________________________________________________________________________________________________________
+{
+   "query": "query($pulpit: String) { getPulpits(pulpit:$pulpit) {PULPIT, PULPIT_NAME,FACULTY}}",
+   "variables": {
+   	"pulpit":"ИСиТ"
+   }
+}
+______________________________________________________________________________________________________________________
+{
+   "query": "query($teacher: String) { getTeachers(teacher:$teacher) {TEACHER, TEACHER_NAME,PULPIT}}",
+   "variables": {
+   	"teacher":"СМЛВ"
+   }
+}
+______________________________________________________________________________________________________________________
+{
+   "query": "query($subject: String) { getSubjects(subject:$subject) {SUBJECT, SUBJECT_NAME,PULPIT}}",
+   "variables": {
+   	"subject":"БД"
+   }
+}
+________________________________________________________________________________________________________________________
+{
+   "query": "query($faculty: String!) {getTeachersByFaculty(faculty: $faculty) {TEACHER, TEACHER_NAME,PULPIT}}",
+   "variables": {
+   	"faculty":"ИДиП"
+   }
+}
+________________________________________________________________________________________________________________________
+{
+   "query": "query($faculty: String!) {getSubjectsByFaculty(faculty: $faculty) {SUBJECT, SUBJECT_NAME,PULPIT}}",
+   "variables": {
+   	"faculty":"ИДиП"
+   }
+}
+________________________________________________________________________________________________________________________
+{
+   "query": "mutation($faculty: NewFaculty!) { setFaculty(faculty: $faculty) {FACULTY, FACULTY_NAME} }",
+   "variables": {
+     "faculty": {
+     	"faculty": "VP",
+       "facultyName": "Virtus Pro"
+     }
+   }
+ }
+ ________________________________________________________________________________________________________________________
+ {
+    "query": "mutation($pulpit: NewPulpit!) { setPulpit(pulpit: $pulpit) {PULPIT, PULPIT_NAME, FACULTY} }",
+    "variables": {
+      "pulpit": {
+      	"pulpit": "aa",
+        "pulpitName": "AA",
+        	"faculty":"EG"
+      }
+    }
+ }
+ ________________________________________________________________________________________________________________________
+{
+   "query": "mutation($subject: NewSubject!) { setSubject(subject: $subject) {SUBJECT, SUBJECT_NAME, PULPIT} }",
+   "variables": {
+     "subject": {
+     	"subject": "zz",
+       "subjectName": "ZZ",
+       	"pulpit":"aa"
+     }
+   }
+ }
+ ________________________________________________________________________________________________________________________
+{
+   "query": "mutation($teacher: NewTeacher!) { setTeacher(teacher: $teacher) {TEACHER, TEACHER_NAME, PULPIT} }",
+   "variables": {
+     "teacher": {
+     	"teacher": "KLMN",
+       "teacherName": "Kavyan",
+       	"pulpit":"aa"
+     }
+   }
+ }
+________________________________________________________________________________________________________________________
+{
+	"query": "mutation($teacher: String!) { delTeacher(teacher: $teacher) {TEACHER, TEACHER_NAME,PULPIT} }",
+	"variables": {
+		"teacher": "KLMN"
+	}
+}
+________________________________________________________________________________________________________________________
+{
+	"query": "mutation($subject: String!) { delSubject(subject: $subject) {SUBJECT, SUBJECT_NAME,PULPIT} }",
+	"variables": {
+		"subject": "zz"
+	}
+}
+________________________________________________________________________________________________________________________
+{
+	"query": "mutation($pulpit: String!) { delPulpit(pulpit: $pulpit) {PULPIT, PULPIT_NAME,FACULTY} }",
+	"variables": {
+		"pulpit": "aa"
+	}
+}
+_________________________________________________________________________________________________________________________
+{
+	"query": "mutation($faculty: String!) { delFaculty(faculty: $faculty) {FACULTY, FACULTY_NAME} }",
+	"variables": {
+		"faculty": "VP"
+	}
+}

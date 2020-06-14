@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+Отправитель: <input id="sender">
+<br><br>
+Получатель: <input id="receiver">
+<br><br>
+Сообщение: <input id="message">
+<br><br>
+<input type="button" onclick="Post()" value="Ok">
+<script>
+    function Post() {
+        let sender = document.getElementById("sender");
+        let receiver = document.getElementById("receiver");
+        let message = document.getElementById("message");
+
+        fetch('http://localhost:5000/', {
+            method: 'POST',
+            headers: {'Content-Type': 'application/json'},
+            body: JSON.stringify({sender:sender.value, receiver:receiver.value, message:message.value})
+        });
+    }
+</script>
+</body>
+</html>
