@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a9e9b47-9ebd-4530-a7c2-043dae7f52fe" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YRK9yKsgAXfZWRHWexBww4f7D0" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laba19" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="laba18.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="laba18.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.laba18.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a9e9b47-9ebd-4530-a7c2-043dae7f52fe" name="Default Changelist" comment="" />
+      <created>1582899818708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582899818708</updated>
+      <workItem from="1582899820507" duration="9846000" />
+      <workItem from="1582966204858" duration="515000" />
+      <workItem from="1582973887833" duration="513000" />
+      <workItem from="1583252724666" duration="9000" />
+      <workItem from="1583779159977" duration="189000" />
+      <workItem from="1583780932881" duration="17000" />
+      <workItem from="1583780996771" duration="231000" />
+      <workItem from="1583782711632" duration="71000" />
+      <workItem from="1584125848417" duration="67000" />
+      <workItem from="1585393053158" duration="749000" />
+      <workItem from="1585395664984" duration="623000" />
+      <workItem from="1585480910015" duration="209000" />
+      <workItem from="1585564100796" duration="26000" />
+      <workItem from="1591875301764" duration="40000" />
+      <workItem from="1592155636441" duration="253000" />
+      <workItem from="1592157350874" duration="2623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/18.html</url>
+          <line>44</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

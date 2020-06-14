@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eac9b217-30ec-4f11-b887-eafec70a54f2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aw2P02VlSHvntyY3iFVO4WRjs1" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laba26" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eac9b217-30ec-4f11-b887-eafec70a54f2" name="Default Changelist" comment="" />
+      <created>1587632307784</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587632307784</updated>
+      <workItem from="1587632309662" duration="1390000" />
+      <workItem from="1587645404461" duration="8158000" />
+      <workItem from="1587664577784" duration="5342000" />
+      <workItem from="1587718013813" duration="5000" />
+      <workItem from="1588493894025" duration="67000" />
+      <workItem from="1588516722991" duration="35000" />
+      <workItem from="1588539289961" duration="44000" />
+      <workItem from="1588777759049" duration="327000" />
+      <workItem from="1588803744321" duration="91000" />
+      <workItem from="1588827731656" duration="1239000" />
+      <workItem from="1589431749953" duration="3413000" />
+      <workItem from="1589664104390" duration="3000" />
+      <workItem from="1589747273570" duration="9000" />
+      <workItem from="1589819499467" duration="50000" />
+      <workItem from="1589885312651" duration="7000" />
+      <workItem from="1589927099681" duration="7000" />
+      <workItem from="1590133340626" duration="4000" />
+      <workItem from="1590156405090" duration="8000" />
+      <workItem from="1590180179947" duration="453000" />
+      <workItem from="1590263529710" duration="149000" />
+      <workItem from="1590265960214" duration="3000" />
+      <workItem from="1590270878863" duration="6000" />
+      <workItem from="1590396638048" duration="37000" />
+      <workItem from="1590427867591" duration="28000" />
+      <workItem from="1590524093753" duration="48000" />
+      <workItem from="1590593333586" duration="47000" />
+      <workItem from="1591875751269" duration="132000" />
+      <workItem from="1592162238905" duration="80000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="request.files" language="JavaScript" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

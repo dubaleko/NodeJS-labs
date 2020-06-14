@@ -1,0 +1,20 @@
+{
+  "name": "laba19",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express-handlebars": "^3.1.0"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "hbs": "^4.1.0"
+  }
+}

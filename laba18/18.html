@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Laba14</title>
+</head>
+<body>
+<a href="http://localhost:5000/api/pulpits">Get Pulpits</a>
+<br/><br/>
+<input type="button" value="Post Pulpits" onclick="postPulpits()">
+<br/><br/>
+<input type="button" value="Put Pulpits" onclick="putPulpits()">
+<br/><br/>
+<input type="button" value="Delete Pulpits" onclick="deletePulpits()">
+<script>
+    function postPulpits() {
+        fetch('http://localhost:5000/api/pulpits', {
+            method: 'POST',
+            body: JSON.stringify({ PULPIT: 'EX', PULPIT_NAME: 'Example', FACULTY: 'Pap'}) ,
+            headers: {'Content-Type':'text/html'}
+        }).then(response =>
+        {
+            checkErrors(response);
+        });
+    }
+    function putPulpits() {
+        fetch('http://localhost:5000/api/pulpits', {
+            method: 'PUT',
+            body: JSON.stringify({ PULPIT: 'EX', PULPIT_NAME: 'MyExample'}) ,
+            headers: {'Content-Type':'text/html'}
+        }).then(response =>
+        {
+            checkErrors(response);
+        });
+    }
+    function deletePulpits() {
+        fetch('http://localhost:5000/api/pulpits?pulpit=EX', {
+            method: 'DELETE',
+            headers: {'Content-Type':'text/html'}
+        }).then(response =>
+        {
+            checkErrors(response);
+        });
+    }
+    function checkErrors(response)
+    {
+        if (response.status == 400)
+            alert(response.statusText);
+    }
+</script>
+</body>
+</html>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fc2d135a-0642-43f2-a5cd-d15bca0906df" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aHIp4CbUcBRWSf450aw8JDQAsF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.9.1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laba23" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fc2d135a-0642-43f2-a5cd-d15bca0906df" name="Default Changelist" comment="" />
+      <created>1586386271385</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586386271385</updated>
+      <workItem from="1586386272707" duration="3545000" />
+      <workItem from="1586408618892" duration="36000" />
+      <workItem from="1586409490943" duration="532000" />
+      <workItem from="1586410184336" duration="656000" />
+      <workItem from="1586412560031" duration="772000" />
+      <workItem from="1586414517800" duration="69000" />
+      <workItem from="1586527575417" duration="5000" />
+      <workItem from="1586540481122" duration="6712000" />
+      <workItem from="1586590898814" duration="1099000" />
+      <workItem from="1586598643790" duration="734000" />
+      <workItem from="1587012666343" duration="3544000" />
+      <workItem from="1587145950636" duration="26000" />
+      <workItem from="1587208492236" duration="8000" />
+      <workItem from="1587250843018" duration="15000" />
+      <workItem from="1587448406459" duration="21000" />
+      <workItem from="1587571251376" duration="1820000" />
+      <workItem from="1587595431833" duration="27000" />
+      <workItem from="1587617876346" duration="3428000" />
+      <workItem from="1587625383220" duration="6000" />
+      <workItem from="1587632631382" duration="14000" />
+      <workItem from="1591875420466" duration="6000" />
+      <workItem from="1592146589938" duration="7000" />
+      <workItem from="1592161472604" duration="55000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cfg" />
+  </component>
+</project>

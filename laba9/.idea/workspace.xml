@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="afa55573-7f1a-4c21-93a6-824efd5480f0" name="Default Changelist" comment="" />
+    <list default="true" id="afa55573-7f1a-4c21-93a6-824efd5480f0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../laba14/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laba14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../laba14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,20 +20,25 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/09-06.js" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/09-02.js" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/09-03.js" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/09-07.js" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/09-04.js" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/09-08.js" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/09-05.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/09-06.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/09-07.js" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/09-08.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1WWcoddhAIJZl5Kz167fcaIbsPo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.9.1" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../laba8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../sem6/node js/лабы/laba20" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -100,10 +110,22 @@
       <workItem from="1579549975766" duration="335000" />
       <workItem from="1579564961820" duration="830000" />
       <workItem from="1579588084443" duration="5151000" />
+      <workItem from="1592165302686" duration="854000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
