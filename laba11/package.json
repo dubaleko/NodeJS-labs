@@ -13,6 +13,6 @@
     "async": "^3.1.0",
     "rpc-websockets": "^4.6.1",
     "websocket-stream": "^5.5.0",
-    "ws": "^7.2.0"
+    "ws": "^7.4.6"
   }
 }
